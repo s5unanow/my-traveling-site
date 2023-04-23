@@ -65,7 +65,7 @@ body {
 
 .section__content {
   display: flex;
-  gap: 40px;
+  gap: 100px;
   align-items: center;
   justify-content: center;
   width: 80%;
